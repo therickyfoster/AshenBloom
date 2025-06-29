@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AshenBloom
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# AshenBloom
+>>>>>>> d131d4bb01451402de4fa1437c8d37ff8635f55f
